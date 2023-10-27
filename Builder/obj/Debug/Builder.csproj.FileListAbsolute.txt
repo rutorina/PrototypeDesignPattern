@@ -1,0 +1,9 @@
+E:\!College\KPZ\BuilderDesignPattern\Builder\bin\Debug\Builder.dll
+E:\!College\KPZ\BuilderDesignPattern\Builder\bin\Debug\Builder.pdb
+E:\!College\KPZ\BuilderDesignPattern\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+E:\!College\KPZ\BuilderDesignPattern\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+E:\!College\KPZ\BuilderDesignPattern\Builder\obj\Debug\Builder.dll
+E:\!College\KPZ\BuilderDesignPattern\Builder\obj\Debug\Builder.pdb
+E:\!College\KPZ\BuilderDesignPattern\Builder\bin\Debug\Logger.dll
+E:\!College\KPZ\BuilderDesignPattern\Builder\bin\Debug\Logger.pdb
+E:\!College\KPZ\BuilderDesignPattern\Builder\obj\Debug\Builder.csproj.CopyComplete

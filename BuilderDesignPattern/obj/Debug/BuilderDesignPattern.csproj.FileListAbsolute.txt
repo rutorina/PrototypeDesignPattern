@@ -1,0 +1,15 @@
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\Builder.dll
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\Builder.pdb
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csproj.AssemblyReference.cache
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.Form1.resources
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.Properties.Resources.resources
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csproj.GenerateResource.cache
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csproj.CopyComplete
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\Logger.dll
+E:\!College\KPZ\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\Logger.pdb
